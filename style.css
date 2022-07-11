@@ -14,8 +14,7 @@ body{
     display: flex;
     flex-direction: column;
 
-    width: 400px;
-    
+    width: 600px;
     height: 2000px;
     background-color: aliceblue;
     border-radius: 5px;
@@ -38,8 +37,8 @@ body{
 .rowContainer{
     display: flex;
 
-    width: 388px;
-    height: 170px;
+    width: 588px;
+    height: 280px;
     border: 1px solid rgb(255, 153, 0);
     padding: 5px;
 }
@@ -47,9 +46,9 @@ body{
     position: relative;
     left: 4%;
 
-    width: 150px;
-    height: 150px;
-    background-color: rgb(82, 198, 92);
+    width: 250px;
+    height: 250px;
+    background-color: rgb(82, 144, 198);
     border-radius: 5px;
     border: 1px solid black;
 }
@@ -57,8 +56,8 @@ body{
     position: relative;
     left: 10%;
 
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
     background-color: rgb(82, 144, 198);
     border-radius: 5px;
     border: 1px solid black;
